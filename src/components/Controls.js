@@ -1,4 +1,5 @@
 import React from "react";
+//for scheduling
 
 const Controls = ({ algorithm, setAlgorithm, quantum, setQuantum, runScheduling }) => {
   return (
